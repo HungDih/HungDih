@@ -1,1 +1,2 @@
 check out lần 1
+tiếp tục phát triển ứng dụng tại nhánh dev
